@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="electronic">Electronics</string>
+    <string name="clothes">Clothing</string>
+    <string name="beauty">Beauty</string>
+    <string name="food">Food</string>
+    <string-array name="electronics">
+        <item> item1</item>
+        <item> item2</item>
+        <item> item3</item>
+        <item> item4</item>
+        <item> item5</item>
+        <item> item6</item>
+        <item> item7</item>
+        <item> item8</item>
+        <item> item9</item>
+        <item> item10</item>
+        <item> item11</item>
+        <item> item12</item>
+        <item> item13</item>
+        <item> item14</item>
+        <item> item15</item>
+
+
+    </string-array>
+
+    <string-array name="food">
+        <item> item1</item>
+        <item> item2</item>
+        <item> item3</item>
+        <item> item4</item>
+        <item> item5</item>
+        <item> item6</item>
+        <item> item7</item>
+        <item> item8</item>
+        <item> item9</item>
+        <item> item10</item>
+        <item> item11</item>
+        <item> item12</item>
+        <item> item13</item>
+        <item> item14</item>
+        <item> item15</item>
+    </string-array>
+
+    <string-array name="clothes">
+        <item> item1</item>
+        <item> item2</item>
+        <item> item3</item>
+        <item> item4</item>
+        <item> item5</item>
+        <item> item6</item>
+        <item> item7</item>
+        <item> item8</item>
+        <item> item9</item>
+        <item> item10</item>
+        <item> item11</item>
+        <item> item12</item>
+        <item> item13</item>
+        <item> item14</item>
+        <item> item15</item>
+    </string-array>
+
+    <string-array name="beauty">
+        <item> item1</item>
+        <item> item2</item>
+        <item> item3</item>
+        <item> item4</item>
+        <item> item5</item>
+        <item> item6</item>
+        <item> item7</item>
+        <item> item8</item>
+        <item> item9</item>
+        <item> item10</item>
+        <item> item11</item>
+        <item> item12</item>
+        <item> item13</item>
+        <item> item14</item>
+        <item> item15</item>
+    </string-array>
+
+
+</resources>
