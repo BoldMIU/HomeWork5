@@ -2,7 +2,6 @@ package com.example.quizapp
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-<<<<<<< HEAD
 import android.view.View
 import android.widget.CheckBox
 import android.widget.RadioButton
@@ -53,16 +52,10 @@ class MainActivity : AppCompatActivity() {
         findViewById<CheckBox>(R.id.ans2).setChecked(false)
         findViewById<CheckBox>(R.id.ans3).setChecked(false)
 
-
+        }
     }
 
 
-=======
 
-class MainActivity : AppCompatActivity() {
-    override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
-    }
->>>>>>> 9cefeb3cb9c9aa493a03ddac27eb80ddcf45fc90
-}
+
+
